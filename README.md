@@ -1,51 +1,119 @@
-<h1 align="center">Hi, I'm Haider Khalil.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Haider Khalil 👋</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+Developer;Frontend+Developer;+Github+Expert;&center=true&width=500&height=50"></a>
+  <b>Full Stack Developer</b> · Angular &amp; SharePoint Online · Lahore, Pakistan
 </p>
-<hr/>
-<h3> About Me </h3>
-<h5 align="center">I am 20 Years Old. I Completed Matriculation from Sadiq Memorial High School(SMHS)
-                with 80% Marks. I am Studying ICS from Punjab Group of Colleges (Kasur).
-                I am also pursuing a Full Stack Web Development course at EVS Professional Training Institute, where I
-                am learning new technologies and frameworks to enhance my skills and knowledge. Currently, I'm working
-                As a Full Stack Developer at NKU Technologies, I work on various web development projects. I have contributed to the development of
-                Obeikan Digital Solutions' (O3) and Central Business District Punjab's (CBD) websites, delivering responsive and user-friendly interfaces
-                and functionalities. I am passionate about creating innovative and impactful web solutions that solve real-world problems and improve user
-                experiences. I value collaboration, communication, creativity, and continuous learning in my work. My
-                goal is to become a better developer than I was before and to apply my skills practically to benefit my
-                clients and society.
-</h5>
-
-<h2 >  Tools & Technologies </h2>
-<!-- 	<div align="center">
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761152eb846fc54d8be562e00795b8a367e2e165e292&rid=giphy.gif&ct=g" height="350" width="320" /> -->
-	
-<h3>Frontend:</h3><div style="display: inline-block">
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img align="center" alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-   <img align="center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-	
-</div>
-
-</div> 
-<br>
-
-## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://haiderkhalil.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/haider-khalil"><img src="https://img.shields.io/badge/-Haider Khalil-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/haider12350"><img src="https://img.shields.io/badge/-Haider Khalil-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/haider.khalil.79656"><img src="https://img.shields.io/badge/-Haider Khalil-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.github.com/haiderkhalil123"><img src="https://img.shields.io/badge/-Haider Khalil-000000?style=flat&logo=Github&logoColor=white"/></a>
-<a href="https://www.twitter.com/HaiderK68377392"><img src="https://img.shields.io/badge/-Haider Khalil-0000FF?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://wa.me/923007571851"><img src="https://img.shields.io/badge/-Haider Khalil-008000?style=flat&logo=Whatsapp&logoColor=white"/></a>
+  <a href="https://haiderkhalil.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/haider-khalil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/haider-khalil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:khalilhaider054@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+---
 
-<!---
-haiderkhalil123/haiderkhalil123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I'm a Full Stack Developer at **NKU Technologies**, where I've spent the last four years building and maintaining web applications for enterprise clients. My work sits at the intersection of clean frontend engineering and practical process automation — Angular on the client side, SharePoint Online and Power Automate where teams need workflows that actually reduce manual effort.
+
+- 🏢 Delivering web applications for **Obeikan Digital Solutions** and **Central Business District Punjab**
+- 🎨 Building modern SharePoint Online sites with responsive layouts and clean UI/UX
+- ⚙️ Automating business processes with **Power Automate** and JSON-formatted SharePoint components
+- 🔀 Version control and branching strategy owner on my team — parallel development, feature isolation, and documentation people actually read
+- 📷 Contributing photographer on **Unsplash** since 2022
+- 📫 Reach me at **khalilhaider054@gmail.com**
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+**Microsoft 365 &amp; Automation**
+
+![SharePoint](https://img.shields.io/badge/SharePoint_Online-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON_Formatting-000000?style=flat-square&logo=json&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## What I Work On
+
+### 🥤 [HighTide](https://github.com/haider-khalil/hightide)
+> **HTML5 · CSS3 · JavaScript**
+
+A multi-page beverage brand site with individual product pages for each flavour, plus about and contact pages — built from scratch with hand-written CSS and vanilla JavaScript, no framework.
+
+### 🌐 Enterprise Web Applications
+> **Angular · Angular Material · Angular CLI**
+
+Developing and maintaining production web applications for enterprise clients at NKU Technologies, working with cross-functional teams to improve both functionality and day-to-day user experience.
+
+### 🏛️ SharePoint Online Modernization
+> **SharePoint Online · JSON formatting · Power Automate**
+
+Designing modern SharePoint sites with responsive, device-agnostic layouts built from out-of-the-box components and JSON column and view formatting — then wiring them to automated Power Automate workflows so content management and approvals stop being manual work.
+
+### 🔀 Version Control &amp; Team Workflow
+> **Git · GitHub**
+
+Owning branching strategy and collaboration practice across the team: isolating features cleanly, keeping parallel work unblocked, and maintaining README and project documentation that shortens onboarding for everyone who touches the repo.
+
+### 📷 Photography
+> **Unsplash**
+
+Publishing high-quality photography on Unsplash since 2022 — an outlet that keeps my eye trained for composition, contrast, and visual hierarchy, which turns out to be useful in UI work too.
+
+---
+
+## Experience
+
+**Full Stack Developer** — *NKU Technologies* · July 2022 – Present
+Building and maintaining web applications for enterprise clients, including Obeikan Digital Solutions and Central Business District Punjab.
+
+**SharePoint Developer** — *NKU Technologies* · 2026
+Designed and optimized modern SharePoint Online sites, built automated workflows in Power Automate, and delivered responsive interfaces using JSON formatting and native components.
+
+**Data Entry Specialist** — *Sundas Foundation* · 2022 – 2023
+Handled data coding, processing-error troubleshooting, and reporting under strict data integrity and security policies.
+
+---
+
+## Education
+
+**EVS Professional Training Institute** — Full Stack Web Development · 2022 – 2023
+**Punjab Group of Colleges** — Intermediate, Computer Science · 2020 – 2022
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haider-khalil&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haider-khalil&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <b>Open to collaboration and new opportunities.</b><br />
+  <a href="https://haiderkhalil.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/haider-khalil">LinkedIn</a> ·
+  <a href="mailto:khalilhaider054@gmail.com">Email</a>
+</p>
