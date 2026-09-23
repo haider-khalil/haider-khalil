@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <i>I build clean Angular front ends and SharePoint solutions that take manual work off people's plates.</i>
+</p>
+
+<p align="center">
   <a href="https://haiderkhalil.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/haider-khalil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/haider-khalil"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -13,20 +17,20 @@
 
 ---
 
-## About Me
+## 🙋 About Me
 
-I'm a Full Stack Developer at **NKU Technologies**, where I've spent the last four years building and maintaining web applications for enterprise clients. My work sits at the intersection of clean frontend engineering and practical process automation — Angular on the client side, SharePoint Online and Power Automate where teams need workflows that actually reduce manual effort.
+I'm a Full Stack Developer at **NKU Technologies**, where I've spent the past four years building and maintaining web applications for enterprise clients. My work sits where clean frontend engineering meets practical process automation: **Angular** on the client side, and **SharePoint Online** with **Power Automate** wherever a team needs workflows that genuinely reduce manual effort.
 
 - 🏢 Delivering web applications for **Obeikan Digital Solutions** and **Central Business District Punjab**
-- 🎨 Building modern SharePoint Online sites with responsive layouts and clean UI/UX
+- 🎨 Building modern, responsive SharePoint Online sites with a focus on clean UI/UX
 - ⚙️ Automating business processes with **Power Automate** and JSON-formatted SharePoint components
-- 🔀 Version control and branching strategy owner on my team — parallel development, feature isolation, and documentation people actually read
+- 🔀 Owning version control and branching strategy for my team — parallel development, feature isolation, and documentation people actually read
 - 📷 Contributing photographer on **Unsplash** since 2022
-- 📫 Reach me at **khalilhaider054@gmail.com**
+- 🤝 Open to collaboration, freelance work, and new opportunities
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 
@@ -39,7 +43,7 @@ I'm a Full Stack Developer at **NKU Technologies**, where I've spent the last fo
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-**Microsoft 365 &amp; Automation**
+**Microsoft 365 & Automation**
 
 ![SharePoint](https://img.shields.io/badge/SharePoint_Online-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
@@ -53,67 +57,86 @@ I'm a Full Stack Developer at **NKU Technologies**, where I've spent the last fo
 
 ---
 
-## What I Work On
+## 🚀 Projects & Focus Areas
 
 ### 🥤 [HighTide](https://github.com/haider-khalil/hightide)
-> **HTML5 · CSS3 · JavaScript**
+`HTML5` `CSS3` `JavaScript`
 
-A multi-page beverage brand site with individual product pages for each flavour, plus about and contact pages — built from scratch with hand-written CSS and vanilla JavaScript, no framework.
+A multi-page beverage brand site with a dedicated page for each flavour, plus About and Contact pages. Built from scratch with hand-written CSS and vanilla JavaScript — no framework, just fundamentals.
 
 ### 🌐 Enterprise Web Applications
-> **Angular · Angular Material · Angular CLI**
+`Angular` `Angular Material` `Angular CLI`
 
-Developing and maintaining production web applications for enterprise clients at NKU Technologies, working with cross-functional teams to improve both functionality and day-to-day user experience.
+Production web applications for enterprise clients at NKU Technologies. I work with cross-functional teams to ship new functionality and keep improving the day-to-day experience for the people who use these apps.
 
 ### 🏛️ SharePoint Online Modernization
-> **SharePoint Online · JSON formatting · Power Automate**
+`SharePoint Online` `JSON Formatting` `Power Automate`
 
-Designing modern SharePoint sites with responsive, device-agnostic layouts built from out-of-the-box components and JSON column and view formatting — then wiring them to automated Power Automate workflows so content management and approvals stop being manual work.
+Modern SharePoint sites with responsive, device-agnostic layouts built from out-of-the-box components and JSON column/view formatting — connected to Power Automate workflows so content management and approvals stop being manual chores.
 
-### 🔀 Version Control &amp; Team Workflow
-> **Git · GitHub**
+### 🔀 Version Control & Team Workflow
+`Git` `GitHub`
 
-Owning branching strategy and collaboration practice across the team: isolating features cleanly, keeping parallel work unblocked, and maintaining README and project documentation that shortens onboarding for everyone who touches the repo.
+Branching strategy and collaboration practice across the team: clean feature isolation, unblocked parallel work, and README/project docs that shorten onboarding for everyone who touches the repo.
 
 ### 📷 Photography
-> **Unsplash**
+`Unsplash`
 
-Publishing high-quality photography on Unsplash since 2022 — an outlet that keeps my eye trained for composition, contrast, and visual hierarchy, which turns out to be useful in UI work too.
-
----
-
-## Experience
-
-**Full Stack Developer** — *NKU Technologies* · July 2022 – Present
-Building and maintaining web applications for enterprise clients, including Obeikan Digital Solutions and Central Business District Punjab.
-
-**SharePoint Developer** — *NKU Technologies* · 2026
-Designed and optimized modern SharePoint Online sites, built automated workflows in Power Automate, and delivered responsive interfaces using JSON formatting and native components.
-
-**Data Entry Specialist** — *Sundas Foundation* · 2022 – 2023
-Handled data coding, processing-error troubleshooting, and reporting under strict data integrity and security policies.
+Publishing photography on Unsplash since 2022. It keeps my eye trained on composition, contrast, and visual hierarchy — skills that carry straight over into UI work.
 
 ---
 
-## Education
+## 💼 Experience
 
-**EVS Professional Training Institute** — Full Stack Web Development · 2022 – 2023
-**Punjab Group of Colleges** — Intermediate, Computer Science · 2020 – 2022
+| Role | Company | Period |
+|------|---------|--------|
+| **Full Stack Developer** | NKU Technologies | Jul 2022 – Present |
+| **SharePoint Developer** | NKU Technologies | 2026 |
+| **Data Entry Specialist** | Sundas Foundation | 2022 – 2023 |
+
+- **Full Stack Developer** — Building and maintaining web applications for enterprise clients, including Obeikan Digital Solutions and Central Business District Punjab.
+- **SharePoint Developer** — Designed and optimized modern SharePoint Online sites, built automated Power Automate workflows, and delivered responsive interfaces using JSON formatting and native components.
+- **Data Entry Specialist** — Handled data coding, processing-error troubleshooting, and reporting under strict data integrity and security policies.
 
 ---
 
-## GitHub Stats
+## 🎓 Education
+
+- **EVS Professional Training Institute** — Full Stack Web Development · 2022 – 2023
+- **Punjab Group of Colleges** — Intermediate, Computer Science · 2020 – 2022
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haider-khalil&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haider-khalil&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haider-khalil&theme=github_dark" alt="Contribution activity over time" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/haider-khalil">
+    <img height="170" src="https://streak-stats.demolab.com?user=haider-khalil&hide_border=true&background=0D1117&stroke=30363D&ring=DD0031&fire=DD0031&currStreakNum=FFFFFF&currStreakLabel=DD0031&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
+  </a>
+  <a href="https://github.com/haider-khalil?tab=repositories">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haider-khalil&theme=github_dark" alt="Most committed languages" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haider-khalil/haider-khalil/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haider-khalil/haider-khalil/output/github-snake.svg" />
+    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/haider-khalil/haider-khalil/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
 
+## 📫 Let's Connect
+
 <p align="center">
-  <b>Open to collaboration and new opportunities.</b><br />
+  <b>Always happy to talk Angular, SharePoint, automation — or photography.</b><br />
   <a href="https://haiderkhalil.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/haider-khalil">LinkedIn</a> ·
-  <a href="mailto:khalilhaider054@gmail.com">Email</a>
+  <a href="mailto:khalilhaider054@gmail.com">khalilhaider054@gmail.com</a>
 </p>
